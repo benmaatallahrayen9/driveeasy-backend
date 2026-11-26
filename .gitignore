@@ -1,0 +1,9 @@
+target/
+logs/
+.tools/
+*.log
+/com/
+/io/
+/javax/
+/net/
+/org/
